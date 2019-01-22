@@ -35,3 +35,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Previous Projects
+
+All projects listed below were made using the program scratch:   
+[One Word Resolution](https://scratch.mit.edu/projects/279784334/)      
+[Pre-School Game](https://scratch.mit.edu/projects/255555578/)     
+[Greatest to Least Program](https://scratch.mit.edu/projects/245896524/)   
+![Suprise](https://vignette.wikia.nocookie.net/battlefordreamisland/images/9/90/Scratch_logo.svg/revision/latest?cb=20180814013451)  
