@@ -27,6 +27,6 @@ while x < 4:
   turtle.circle(90)
   turtle.circle(95)
   turtle.circle(100)
-  turtle.left(90)
+  turtle.left(40)
   
   #Circle art, its basic but I lioke it.
