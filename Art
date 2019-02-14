@@ -1,0 +1,31 @@
+import turtle
+turtle.speed(0)
+
+turtle.color("Navy")
+
+x = 0
+
+
+while x < 4:
+  turtle.circle(10)
+  turtle.circle(15)
+  turtle.circle(20)
+  turtle.circle(25)
+  turtle.circle(30)
+  turtle.circle(35)
+  turtle.circle(40)
+  turtle.circle(45)
+  turtle.circle(50)
+  turtle.circle(55)
+  turtle.circle(60)
+  turtle.circle(65)
+  turtle.circle(70)
+  turtle.circle(75)
+  turtle.circle(80)
+  turtle.circle(85)
+  turtle.circle(90)
+  turtle.circle(95)
+  turtle.circle(100)
+  turtle.left(90)
+  
+  #Circle art, its basic but I lioke it.
