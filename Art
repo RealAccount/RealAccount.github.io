@@ -2,6 +2,7 @@ import turtle
 turtle.speed(0)
 
 turtle.color("Navy")
+turtle.dot(1000, "Black")
 
 x = 0
 
