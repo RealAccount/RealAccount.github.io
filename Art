@@ -29,4 +29,4 @@ while x < 4:
   turtle.circle(100)
   turtle.left(40)
   
-  #Circle art, its basic but I lioke it.
+  #Circle art, its basic but I like it.
