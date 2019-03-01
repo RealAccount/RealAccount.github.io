@@ -1,0 +1,53 @@
+print("Select a number that corrisponds with the story you'd like to complete.")
+
+Comedy = 1
+Sports = 2
+Poem = 3
+
+print ("Comedy = 1")
+print ("Sports = 2")
+print ("Poem = 3")
+
+Story = input()
+
+#Story 1
+if Story == "1":
+  print ("Comedy story selected")
+  adjective = input("Enter a adjective:") 
+  food = input("Enter any food:")
+  food_2 = input("Enter in another food:")
+  verb = input("Enter in a verb:")
+  verb_2 = input("Enter in a verb:")
+  noun = input("Enter a plural noun:")
+  fruits =input("Enter a fruit:")
+  vegetables = input("Enter a vegetable:")
+  print ("Here are your results:")
+  print ("Lunchtime in our cafeteria is always " + adjective + ".")
+  print ("They serve hot " + food + " and "+ food_2 + ",but some students " + verb + " their own " + noun + " to eat")
+  print ("Some kids quietly "+ verb_2 +" their "+ food +",while others throw " + vegetables + " or " + fruits + " when teachers arent looking.")
+
+#Story 2
+elif Story == "2":
+ print ("Sports story selected")
+ sport = input("Enter in a sport:")
+ adjective = input("Enter a adjective:")
+ season = input("Enter in a season:")
+ piece_of_clothing = input("Enter in piece of clothing:")
+ nouns = input("Enter plural noun:")
+ print ("Here are your results:")
+ print ("Nothing beats a game of " + sport)
+ print (" on a " + adjective , season +" day.")
+ print ("Fans dress in their " + piece_of_clothing + " and wave " + nouns + " to show their support.")
+
+#Story 3
+elif Story == "3":
+ print ("Poem selected")
+ color = input("Enter a color: ")
+ pluralNoun = input("Enter a plural noun: ")
+ celebrity = input("Enter a celebrity: ")
+ print ("Here are your results:")
+ print("Roses are", color)
+ print(pluralNoun + " are blue")
+ print("I know what to do")
+ print("Call upon your favorite person "+ celebrity +".")
+
