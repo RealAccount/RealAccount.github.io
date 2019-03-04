@@ -1,13 +1,16 @@
 print("Select a number that corrisponds with the story you'd like to complete.")
 
+#variables for the numbers and stories
 Comedy = 1
 Sports = 2
 Poem = 3
+
 
 print ("Comedy = 1")
 print ("Sports = 2")
 print ("Poem = 3")
 
+#Story selection
 Story = input()
 
 #Story 1
@@ -50,4 +53,5 @@ elif Story == "3":
  print(pluralNoun + " are blue")
  print("I know what to do")
  print("Call upon your favorite person "+ celebrity +".")
+
 
