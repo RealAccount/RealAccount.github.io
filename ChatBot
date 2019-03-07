@@ -1,0 +1,17 @@
+print("Hello there..")
+print("Let me introduce myslef.")
+print("My name Bobert, what's yours?")
+name = input()
+print("Hello "+name+",how is your day today?")
+feeling = input()
+if feeling == "Good":
+ print ("That's amazing!")
+elif feeling == "Bad":
+ print ("Sorry to hear about that.")
+else:
+ print ("How can in make it better?")
+print ("Would like to go see a movie?")
+if answer == "Yes"
+ print ("Great which one?") 
+elif answer == ("No")
+ print ("What would you like to do?")
